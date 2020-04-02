@@ -16,8 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@my-org/platform/core": ["libs/platform/core/src/index.ts"],
-      "@my-org/platform/common": ["libs/platform/common/src/index.ts"]
+      "@my-org/platform-core": ["libs/platform/core/src/index.ts"],
+      "@my-org/platform-common": ["libs/platform/common/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

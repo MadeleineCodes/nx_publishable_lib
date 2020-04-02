@@ -1,4 +1,4 @@
-import { Foo } from '@celum/platform-core';
+import { Foo } from '@my-org/platform-core';
 
 export class Bar {
 
